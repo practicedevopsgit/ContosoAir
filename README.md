@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/mypracticedevopsorg/ContosoAir/_apis/build/status/ContosoAir.git?branchName=master)](https://dev.azure.com/mypracticedevopsorg/ContosoAir/_build/latest?definitionId=34&branchName=master)
+[![Build Status](https://dev.azure.com/mypracticedevopsorg/ContosoAir/_apis/build/status/practicedevopsgit.ContosoAir?branchName=master)](https://dev.azure.com/mypracticedevopsorg/ContosoAir/_build/latest?definitionId=35&branchName=master)
 
 
 
